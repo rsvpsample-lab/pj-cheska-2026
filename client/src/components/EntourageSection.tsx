@@ -68,10 +68,10 @@ const EntourageSection = () => {
               <div className="space-y-1 text-[9px] text-foreground text-center">
                 <p>MR. GREGORIO BATI</p>
                 <p>MR. JAYSON CRUZ</p>
-                <p>ASEC. JUABILLY RANCHO</p>
+                <p>ASEC. JUABILLY RACHO</p>
                 <p>GEN. MANUEL PLACIDO</p>
                 <p>HON. NORMAN DUBLOIS</p>
-                <p>MR. OBET GALO</p>
+                <p>MR. OBET GAHO</p>
                 <p>MR. MICHAEL DESTURA</p>
                 <p>MR. MARK FERDINAND ABIOG</p>
                 <p>MR. RENE SUAREZ</p>
@@ -84,7 +84,7 @@ const EntourageSection = () => {
                 <p>MRS. NANY DESTURA</p>
                 <p>MRS. CHARITO PASQUARIELLO</p>
                 <p>DRA. NORMA NUÑEZ</p>
-                <p>MRS. LIEZELLE DAYAO</p>
+                <p>MRS. LIEZLE DAYAO</p>
                 <p>MRS. RAQUEL ERANDIO DE LUNA</p>
                 <p>MRS. LUISITA SUAREZ</p>
                 <p>MRS. CRISTINA MARASIGAN HUBALDE</p>
@@ -119,7 +119,7 @@ const EntourageSection = () => {
             </div>
             <div>
               <h4 className="font-semibold text-primary mb-3 text-xs text-center">Bible Bearer</h4>
-              <p className="text-xs text-foreground text-center">FELIPE SEBASTIAN DESTURA</p>
+              <p className="text-xs text-foreground text-center">FILIPE SEBASTIAN DESTURA</p>
             </div>
           </div>
 
@@ -145,7 +145,7 @@ const EntourageSection = () => {
               <p>ZYN RAEVENN SANCIANGCO</p>
               <p>SOPHIA AMBER CRUZ</p>
               <p>ZHANAIAH EUNICE CRUZ</p>
-              <p>KIESHA JANE MEDIABELLO</p>
+              <p>KIESHIA JANE MEDIABELLO</p>
               <p>LHEE AMERYCK LIZARDO</p>
               <p>NIANA MIKAELA LIM</p>
             </div>
