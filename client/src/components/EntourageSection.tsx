@@ -71,7 +71,7 @@ const EntourageSection = () => {
                 <p>ASEC. JUABILLY RACHO</p>
                 <p>GEN. MANUEL PLACIDO</p>
                 <p>HON. NORMAN DUBLOIS</p>
-                <p>MR. OBET GAHO</p>
+                <p>MR. OBET GAJO</p>
                 <p>MR. MICHAEL DESTURA</p>
                 <p>MR. MARK FERDINAND ABIOG</p>
                 <p>MR. RENE SUAREZ</p>
